@@ -1,1 +1,1 @@
-Programming task
+Programming assignment
